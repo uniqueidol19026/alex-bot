@@ -1,0 +1,201 @@
+1. What is your biggest fear?
+2. Have you ever lied to your best friend?
+3. What is your most embarrassing moment?
+4. Have you ever stolen anything?
+5. Who is your crush?
+6. Have you ever cheated on a test?
+7. What is your guilty pleasure?
+8. Have you ever been caught sneaking out?
+9. What is your biggest insecurity?
+10. Have you ever cried in public?
+11. What is the weirdest dream you’ve had?
+12. Have you ever pretended to be sick?
+13. What is your most embarrassing nickname?
+14. Have you ever lied to your parents?
+15. What is the most trouble you’ve ever gotten into?
+16. Have you ever laughed at someone’s misfortune?
+17. What is your secret talent?
+18. Have you ever had a crush on a teacher?
+19. What is the dumbest thing you’ve ever done?
+20. Have you ever been caught lying?
+21. What is your biggest regret?
+22. Have you ever faked being busy to avoid someone?
+23. What is your weirdest habit?
+24. Have you ever broken someone’s heart?
+25. What is the most childish thing you still do?
+26. Have you ever been rejected by someone you liked?
+27. What is your favorite memory?
+28. Have you ever cheated in a game?
+29. What is the most awkward situation you’ve been in?
+30. Have you ever been caught talking about someone?
+31. What is your favorite food?
+32. Have you ever pretended to like someone?
+33. What is your favorite movie?
+34. Have you ever been jealous of a friend?
+35. What is your dream job?
+36. Have you ever lied about your age?
+37. What is your most embarrassing habit?
+38. Have you ever been caught singing alone?
+39. What is your favorite color?
+40. Have you ever told a secret you shouldn’t have?
+41. What is your biggest pet peeve?
+42. Have you ever had a crush on a friend’s sibling?
+43. What is your most useless skill?
+44. Have you ever laughed at a serious moment?
+45. What is the most romantic thing you’ve done?
+46. Have you ever snooped through someone’s phone?
+47. What is your favorite song?
+48. Have you ever pretended to like a gift?
+49. What is the funniest joke you know?
+50. Have you ever cried over a movie?
+51. What is your favorite animal?
+52. Have you ever stolen food from the kitchen?
+53. What is your favorite hobby?
+54. Have you ever forgotten someone’s birthday?
+55. What is your most embarrassing outfit?
+56. Have you ever been caught gossiping?
+57. What is your favorite subject in school?
+58. Have you ever faked a laugh?
+59. What is your favorite book?
+60. Have you ever been afraid of the dark?
+61. What is your biggest achievement?
+62. Have you ever lied to get out of trouble?
+63. What is your weirdest fear?
+64. Have you ever had a crush on someone you shouldn’t have?
+65. What is your favorite childhood memory?
+66. Have you ever pretended not to see someone?
+67. What is the most annoying habit of yours?
+68. Have you ever been caught doing something silly?
+69. What is your favorite sport?
+70. Have you ever cried yourself to sleep?
+71. What is the most adventurous thing you’ve done?
+72. Have you ever ignored a friend on purpose?
+73. What is your favorite holiday?
+74. Have you ever told a white lie?
+75. What is your biggest dream?
+76. Have you ever copied someone’s homework?
+77. What is your favorite TV show?
+78. Have you ever been embarrassed by your parents?
+79. What is your favorite game?
+80. Have you ever been jealous of a sibling?
+81. What is your favorite ice cream flavor?
+82. Have you ever pretended to be someone else online?
+83. What is your biggest weakness?
+84. Have you ever lied about liking someone?
+85. What is your favorite place to visit?
+86. Have you ever been caught texting in class?
+87. What is your favorite season?
+88. Have you ever been afraid of failure?
+89. What is the most thoughtful gift you’ve received?
+90. Have you ever teased someone too much?
+91. What is your favorite cartoon?
+92. Have you ever hidden something from your parents?
+93. What is your favorite fast food?
+94. Have you ever been embarrassed by a friend?
+95. What is your favorite dessert?
+96. Have you ever laughed at a bad joke?
+97. What is your favorite social media app?
+98. Have you ever lied to a teacher?
+99. What is your favorite memory with friends?
+100. Have you ever done something you regretted immediately?
+
+101. Have you ever cried for no reason?
+102. When was the last time you felt truly happy?
+103. Have you ever felt completely alone?
+104. What is the hardest thing you’ve ever gone through?
+105. Have you ever lost someone you loved?
+106. What is your biggest insecurity?
+107. Have you ever felt misunderstood?
+108. When was the last time you felt proud of yourself?
+109. Have you ever been heartbroken?
+110. Who do you miss the most right now?
+111. Have you ever regretted a decision you made?
+112. What is the one thing that can make you cry instantly?
+113. Have you ever felt like giving up?
+114. What is your deepest fear?
+115. Have you ever felt truly betrayed?
+116. Who do you trust the most in your life?
+117. Have you ever felt invisible?
+118. What is your biggest emotional weakness?
+119. Have you ever felt guilty about something you didn’t do?
+120. When was the last time someone made you feel special?
+121. Have you ever lost a friend forever?
+122. What is your most painful memory?
+123. Have you ever been afraid to tell someone how you feel?
+124. Who has hurt you the most emotionally?
+125. Have you ever felt like you weren’t enough?
+126. When was the last time you felt truly loved?
+127. Have you ever forgiven someone who didn’t deserve it?
+128. What makes you feel most vulnerable?
+129. Have you ever held back tears in front of someone?
+130. What is the hardest thing to say to someone you love?
+131. Have you ever felt like you let someone down?
+132. Who do you wish you could apologize to?
+133. Have you ever felt heartache from distance?
+134. What’s the most emotional movie or book you’ve ever experienced?
+135. Have you ever felt like no one understands you?
+136. Who do you wish you could talk to right now?
+137. Have you ever felt regret over lost time?
+138. What is the hardest goodbye you’ve ever said?
+139. Have you ever been afraid of losing someone you love?
+140. When was the last time you felt pure joy?
+141. Have you ever felt jealous of someone’s happiness?
+142. What is your biggest hope in life?
+143. Have you ever felt completely hopeless?
+144. Who do you feel safest with?
+145. Have you ever been scared to show your true self?
+146. What memory still makes you tear up?
+147. Have you ever been heartbroken over a friendship?
+148. Who in your life makes you feel understood?
+149. Have you ever kept a secret to protect someone?
+150. What is your most cherished memory?
+151. Have you ever felt powerless in a situation?
+152. Who do you think about before sleeping?
+153. Have you ever felt ashamed of your emotions?
+154. What is your greatest emotional struggle?
+155. Have you ever lost hope in someone you cared about?
+156. Who has inspired you the most emotionally?
+157. Have you ever felt hurt by someone’s words?
+158. What is your most emotional achievement?
+159. Have you ever had your heart broken by family or friends?
+160. Who do you wish was still in your life?
+161. Have you ever felt invisible in a crowd?
+162. What is your deepest desire?
+163. Have you ever felt rejected by someone important?
+164. Who do you wish you could hug right now?
+165. Have you ever felt lost in life?
+166. What memory makes you feel bittersweet?
+167. Have you ever felt abandoned?
+168. Who has changed your life emotionally?
+169. Have you ever felt unappreciated?
+170. What is your biggest emotional challenge?
+171. Have you ever cried in front of a stranger?
+172. Who do you wish you could forgive?
+173. Have you ever felt lonely even when with people?
+174. What is the one thing that comforts you the most?
+175. Have you ever lost faith in someone you loved?
+176. Who makes you feel most alive emotionally?
+177. Have you ever felt like your feelings don’t matter?
+178. What is your most vulnerable memory?
+179. Have you ever missed someone so much it hurts?
+180. Who do you wish you could talk to but can’t?
+181. Have you ever been scared of your own emotions?
+182. What is your most emotional fear?
+183. Have you ever felt betrayed by someone you trusted?
+184. Who has made you feel happiest emotionally?
+185. Have you ever wished to turn back time?
+186. What memory do you wish you could relive?
+187. Have you ever felt unloved by someone important?
+188. Who has hurt your feelings the most?
+189. Have you ever had your trust broken?
+190. What is the hardest truth you’ve accepted?
+191. Have you ever wished someone would notice your pain?
+192. Who do you think about when you’re sad?
+193. Have you ever felt misunderstood by your family?
+194. What is the most emotional gift you’ve received?
+195. Have you ever wanted to disappear for a while?
+196. Who makes you feel emotionally safe?
+197. Have you ever cried over a past mistake?
+198. What emotion do you hide the most?
+199. Who do you wish was with you right now?
+200. Have you ever felt completely overwhelmed by life?
